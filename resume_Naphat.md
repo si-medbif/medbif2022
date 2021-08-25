@@ -1,5 +1,5 @@
 # Naphat Sanguansakpakdee 
-![Profile Image Placeholder](~/Users/naphat/Development/medbif2022/IMG_0387.JPG)
+![Profile Image Placeholder](![IMG_0387](https://user-images.githubusercontent.com/65748521/130755175-728ee852-69b1-469e-b485-fe32dafcb716.JPG))
 
 ## Summary
 My name is Naphat Sanguansakpakdee (Bam). I am a mathematics graduate from Faculty of Science, Mahidol University under sponsorship of DPST scholarship (Development and Promotion of Science and Technology Talent Scholarship dpst.ipst.ac.th).,
