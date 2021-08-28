@@ -28,12 +28,15 @@ Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand 1070
 
 ## Experience
 June - July 2017 full-time participation in field research ‘Pollination biology of some native species’ at Queen Sirikit Botanic Garden under mentoring of Wipawee Nilapaka.
+
 June - August 2019 at School of Information Science and Technology, VISTEC under supervising of Dr. Supasorn Suwajanakorn, working on generating 3D room model from single panorama image.
+
 October 2019 - March 2020 at Innovations Hub Department based in Bangkok, Thailand, YPB group International Co., Ltd , working on image recognition ML algorithm for MotifMicro technology.
 
 
 ## Example Portfolio (Scientific Publications)
 -Naphat Sanguansakpakdee, Dr. Ekawat Chaowicharat (Advisor). (2019). “Structural Analysis of Hidden Operations for Handwritten Mathematical Expression Recognition”
+
 -Naphat Sanguansakpakdee, Dr. Ekawat Chaowicharat (Advisor). (2020). “Mathematical Term for Fairness Evaluation and Bias Detection in Machine Learning”
 
 ## Education
