@@ -29,6 +29,6 @@ Medium: @bowornpol.nuim
 
 | Year | Degree | Institute |
 |:---------:|:---------:|:-----------|
-| 2021 - present | Master of Science (Medical Bioinformatics) | Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand |
+| 2021 - present | Master of Science (Medical bioinformatics) | Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand |
 | 2017 - 2020 | Bachelor of Science (Biotechnology) | Faculty of Science and Technology, Thammasat University, Thailand |
 
