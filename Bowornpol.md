@@ -1,5 +1,5 @@
 # Bowornpol Nu-im
-![](Bowornpol.jpg)
+![](bowornpol.jpg)
 
 ## Summary
 
