@@ -1,6 +1,6 @@
-# Naphat Sanguansakpakdee 
-![IMG_0387](https://user-images.githubusercontent.com/65748521/130755750-9befbdc1-211c-45c5-9bff-4c2c2ad0686c.JPG)
+# Naphat Sanguansakpakdee
 
+![IMG_0387](https://user-images.githubusercontent.com/65748521/131223517-83326f01-49ea-435a-beee-a08f5be659ce.JPG)
 
 ## Summary
 My name is Naphat Sanguansakpakdee (Bam). I am a mathematics graduate from Faculty of Science, Mahidol University under sponsorship of DPST scholarship (Development and Promotion of Science and Technology Talent Scholarship dpst.ipst.ac.th).,
@@ -29,12 +29,15 @@ Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand 1070
 
 ## Experience
 June - July 2017 full-time participation in field research ‘Pollination biology of some native species’ at Queen Sirikit Botanic Garden under mentoring of Wipawee Nilapaka.
+
 June - August 2019 at School of Information Science and Technology, VISTEC under supervising of Dr. Supasorn Suwajanakorn, working on generating 3D room model from single panorama image.
+
 October 2019 - March 2020 at Innovations Hub Department based in Bangkok, Thailand, YPB group International Co., Ltd , working on image recognition ML algorithm for MotifMicro technology.
 
 
 ## Example Portfolio (Scientific Publications)
 -Naphat Sanguansakpakdee, Dr. Ekawat Chaowicharat (Advisor). (2019). “Structural Analysis of Hidden Operations for Handwritten Mathematical Expression Recognition”
+
 -Naphat Sanguansakpakdee, Dr. Ekawat Chaowicharat (Advisor). (2020). “Mathematical Term for Fairness Evaluation and Bias Detection in Machine Learning”
 
 ## Education
