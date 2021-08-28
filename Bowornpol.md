@@ -17,7 +17,7 @@ Medium: @bowornpol.nuim
 | Category | Softwares |
 |----------|:----------|
 |Data Science| R/RStudio|
-|Office Software| Word, Powerpoint, Excel, Dropbox, Google Drive, Zoom, Webex, Slack, Basecamp|
+|Office Software| Word, Powerpoint, Excel|
 
 ## Laboratory skills
 
