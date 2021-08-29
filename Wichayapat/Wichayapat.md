@@ -33,6 +33,7 @@ Wichayapat received B.Sc. in computer science from Faculty of Information and Co
 
 ## Education
 
-| Degreee | Institute                                                                         |
-| :-----: | :-------------------------------------------------------------------------------- |
-|  B.Sc.  | Faculty of Information and Communication Technology, Mahidol University, Thailand |
+|      Year      | Degreee                                    | Institute                                                                         |
+| :------------: | :----------------------------------------- | --------------------------------------------------------------------------------- |
+| 2021 - present | Master of Science (Medical bioinformatics) | Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand                |
+|   2016 -2020   | B.Sc.                                      | Faculty of Information and Communication Technology, Mahidol University, Thailand |
