@@ -6,6 +6,10 @@
 
 Wichayapat received B.Sc. in computer science from Faculty of Information and Communication Technology, Mahidol University. Majority of his work during study was mostly related to data analysis and visualization. After graduated, he decided to pursue his dream by joining genetic data analysis project, as trainee, under supervising of bioinformaticians from BIOTEC & Siriraj hospotal. Due to his passionate in Biology, he seek for more knowledge in biology & practical experience in biological data analysis, so he decided to start a new journey as master student of bioinformatic at Faculty of Medicine Siriraj Hospital, Mahidol University.
 
+## Contact Info
+
+- Email: wichayapat.tho@gmail.com
+
 ## Social Media Profiles
 
 - Medium: @guywichayapat
