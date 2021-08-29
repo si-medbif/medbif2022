@@ -1,6 +1,6 @@
 # Wichayapat Thongrattana, BSc
 
-![Profile Image Placeholder](image/wichayapat.png)
+![Profile Image Placeholder](image/wichayapat.jpg)
 
 ## Summary
 
