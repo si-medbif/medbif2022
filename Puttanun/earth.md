@@ -1,6 +1,6 @@
 # Puttanun  Ukhampun
 
-![IMG]
+![IMG_0387](studentphoto.jpg)
 
 ## Summary
 Puttanun Ukhampun has earned a bachelor's degree of associated medical science from Khonkaen university. He is continuing a Master's degree in Medical Bioinformatics at Faculty of Medicine Siriraj Hospital, Mahidol University. 
