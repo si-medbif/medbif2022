@@ -15,6 +15,8 @@ There are 4 members in our team.
 | Puttanun Ukhampun | puttanun@kkumail.com|Medical Science|
 | Wichayapat Thongrattana | wichayapat.tho@gmail.com|Computer Science|
 
+
+***
 ![alt text](/resource/3.png)
 ## Advisor Section
 | Name      | Contact info                                          |
@@ -22,6 +24,8 @@ There are 4 members in our team.
 |Asst.Prof. Dr. Bhoom Suktitipat|bhoom.suk@mahidol.ac.th|
 |Asst.Prof. Dr. Prapat Suriyaphol|prapatsuriyaphol@gmail.com|
 
+
+***
 ![alt text](/resource/4.png)
 ## Program Coordinator Section
 | Name      | Contact info                                          |
