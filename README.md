@@ -1,7 +1,10 @@
 ![alt text](/resource/1.png)
 # Greeting Visitor!
 This is the HomePage of M.Sc. Bioinformatic student's roster of 2022 academic year. This page roughly contains the contact information of student, advisor, and program coordinator which is available through the sections below.
+
+
 ![alt text](/resource/2.png)
+
 ## Team Member Section
 There are 4 members in our team. 
 | Name        | Contact info                                          | Background|
