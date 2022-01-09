@@ -2,7 +2,7 @@
 ![](bowornpol.jpg)
 
 ## Summary
-Bowornpol earned a bachelor's degree in Biotechnology from Thammasat University. He is currently pursuing a master's degree in Medical Bioinformatics at Faculty of Medicine Siriraj Hospital, Mahidol University. In the fourth year of study at Thammasat  University, He did a senior project about the analysis of functional consequences of SNPs in human ACE2 and TMPRSS2 genes on SARS-CoV-2 susceptibility. Biomedicine and Bioinformatics are his areas of interest. He's attempting to figure out how to apply these knowledges to solve biological problems.
+Bowornpol earned a bachelor's degree in Biotechnology from Thammasat University. He is currently pursuing a master's degree in Medical Bioinformatics at Faculty of Medicine Siriraj Hospital, Mahidol University. In the fourth year of study at Thammasat  University, He did a senior project about the analysis of functional consequences of SNPs in human ACE2 and TMPRSS2 genes on SARS-CoV-2 susceptibility. Biomedicine and Bioinformatics are his areas of interest. He is attempting to figure out how to apply these knowledges to solve biological problems.
 
 ## Contact Info
 
@@ -16,7 +16,7 @@ Medium: @bowornpol.nuim
 
 | Category | Softwares |
 |----------|:----------|
-|Data Science| R/RStudio|
+|Data Science| R/RStudio, Python, Linux|
 |Office Software| Word, Powerpoint, Excel|
 
 ## Laboratory skills
