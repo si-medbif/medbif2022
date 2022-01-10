@@ -8,12 +8,12 @@ This is the HomePage of M.Sc. Bioinformatic student's roster of 2022 academic ye
 
 ## Team Member Section
 There are 4 members in our team. 
-| Name        | Contact info                                          | Background|
-| --------------- | :----------------------------------------------------- |---|
-| Bowornpol Nuim| bowornpol@hotmail.com| Biotechnology|
-| Naphat Sanguansakpakdee | naphat.spakdee@gmail.com| Mathematics| 
-| Puttanun Ukhampun | puttanun@kkumail.com|Medical Science|
-| Wichayapat Thongrattana | wichayapat.tho@gmail.com|Computer Science|
+| Name        | Contact info                                          | Background| Resume|
+| --------------- | :----------------------------------------------------- |---|---|
+| Bowornpol Nuim| bowornpol@hotmail.com| Biotechnology| [Bowornpol](Bowornpol/Bowornpol.md)|
+| Naphat Sanguansakpakdee | naphat.spakdee@gmail.com| Mathematics| [Naphat](Naphat (Bam)/resume_Naphat.md)|
+| Puttanun Ukhampun | puttanun@kkumail.com|Medical Science| [Puttanun](Puttanun/earth.md)|
+| Wichayapat Thongrattana | wichayapat.tho@gmail.com|Computer Science| [Wichayapat](Wichayapat/Wichayapat.md)|
 
 
 ***
