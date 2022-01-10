@@ -1,6 +1,6 @@
 ![alt text](/resource/1.png)
 # Greeting Visitor!
-This is the HomePage of M.Sc. Bioinformatic student's roster of 2022 academic year. This page roughly contains the contact information of student, advisor, and program coordinator which is available through the sections below.
+This is the HomePage of M.Sc. Medical Bioinformatic student's roster of 2022 academic year. This page roughly contains the contact information of student, advisor, and program coordinator which is available through the sections below. Please don't hesitate to contact us for research opportunity and to inquire about our program.
 
 
 ***
