@@ -11,7 +11,7 @@ There are 4 members in our team.
 | Name        | Contact info                                          | Background| Resume|
 | --------------- | :----------------------------------------------------- |---|---|
 | Bowornpol Nuim| bowornpol@hotmail.com| Biotechnology| [Bowornpol](Bowornpol/Bowornpol.md)|
-| Naphat Sanguansakpakdee | naphat.spakdee@gmail.com| Mathematics| [Naphat](Naphat(Bam)/resume_Naphat.md)|
+| Naphat Sanguansakpakdee | naphat.spakdee@gmail.com| Mathematics| [Naphat](Naphat (Bam)/resume_Naphat.md)|
 | Puttanun Ukhampun | puttanun@kkumail.com|Medical Science| [Puttanun](Puttanun/earth.md)|
 | Wichayapat Thongrattana | wichayapat.tho@gmail.com|Computer Science| [Wichayapat](Wichayapat/Wichayapat.md)|
 
